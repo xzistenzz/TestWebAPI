@@ -1,0 +1,11 @@
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\bin\Debug\net8.0\TestWebAPI.Domain.deps.json
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\bin\Debug\net8.0\TestWebAPI.Domain.dll
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\bin\Debug\net8.0\TestWebAPI.Domain.pdb
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\TestWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\TestWebAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\TestWebAPI.Domain.AssemblyInfo.cs
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\TestWebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\TestWebAPI.Domain.dll
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\refint\TestWebAPI.Domain.dll
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\TestWebAPI.Domain.pdb
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net8.0\ref\TestWebAPI.Domain.dll

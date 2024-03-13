@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\services\\repository\\implementation\\picturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\services\\repository\\implementation\\picturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\services\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\services\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\services\\repository\\implementation\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\services\\repository\\implementation\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.domain\\exepctions\\notfoundentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|solutionrelative:testwebapi.domain\\exepctions\\notfoundentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.domain\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|solutionrelative:testwebapi.domain\\models\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\services\\repository\\abstraction\\ipicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\services\\repository\\abstraction\\ipicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\services\\repository\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\services\\repository\\abstraction\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.application\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|solutionrelative:testwebapi.application\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.application\\services\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|solutionrelative:testwebapi.application\\services\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.application\\services\\implementation\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|solutionrelative:testwebapi.application\\services\\implementation\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.application\\services\\abstraction\\ihashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|solutionrelative:testwebapi.application\\services\\abstraction\\ihashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.application\\testwebapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{097A1D88-63D6-42AA-8569-A1109F2B8213}|TestWebAPI.Application\\TestWebAPI.Application.csproj|solutionrelative:testwebapi.application\\testwebapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|solutionrelative:testwebapi.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\services\\repository\\abstraction\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\services\\repository\\abstraction\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.domain\\testwebapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABCC8E7A-1E5F-4E3A-97E6-CF03BB8D0F8A}|TestWebAPI.Domain\\TestWebAPI.Domain.csproj|solutionrelative:testwebapi.domain\\testwebapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\configuration\\pictureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\configuration\\pictureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|c:\\users\\sasha\\source\\repos\\testwebapi\\testwebapi.persistance\\testwebapi.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1403EBCC-F0A9-40E8-B0D8-5EF2A15CBC7A}|TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj|solutionrelative:testwebapi.persistance\\testwebapi.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 579,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IUserRepository.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:24:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPictureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IPictureRepository.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IPictureRepository.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IPictureRepository.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IPictureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:25:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PictureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Implementation\\PictureRepository.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Services\\Repository\\Implementation\\PictureRepository.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Implementation\\PictureRepository.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Services\\Repository\\Implementation\\PictureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:23:00.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Services\\Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Services\\Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowBgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:22:18.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Implementation\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Services\\Repository\\Implementation\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Implementation\\ApplicationContext.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Services\\Repository\\Implementation\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:00:38.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Picture.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\Models\\Picture.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Domain\\Models\\Picture.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\Models\\Picture.cs",
+              "RelativeToolTip": "TestWebAPI.Domain\\Models\\Picture.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:37:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundEntityException.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\Exepctions\\NotFoundEntityException.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Domain\\Exepctions\\NotFoundEntityException.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\Exepctions\\NotFoundEntityException.cs",
+              "RelativeToolTip": "TestWebAPI.Domain\\Exepctions\\NotFoundEntityException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:28:41.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Application\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "TestWebAPI.Application\\Services\\Implementation\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:52:29.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Abstraction\\IUserService.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Application\\Services\\Abstraction\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Abstraction\\IUserService.cs",
+              "RelativeToolTip": "TestWebAPI.Application\\Services\\Abstraction\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:51:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashPassword.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Implementation\\HashPassword.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Application\\Services\\Implementation\\HashPassword.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Implementation\\HashPassword.cs",
+              "RelativeToolTip": "TestWebAPI.Application\\Services\\Implementation\\HashPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:48:48.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHashPassword.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Abstraction\\IHashPassword.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Application\\Services\\Abstraction\\IHashPassword.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\Services\\Abstraction\\IHashPassword.cs",
+              "RelativeToolTip": "TestWebAPI.Application\\Services\\Abstraction\\IHashPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:46:48.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestWebAPI.Application",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\TestWebAPI.Application.csproj",
+              "RelativeDocumentMoniker": "TestWebAPI.Application\\TestWebAPI.Application.csproj",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Application\\TestWebAPI.Application.csproj",
+              "RelativeToolTip": "TestWebAPI.Application\\TestWebAPI.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T22:45:40.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestWebAPI.Domain",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\TestWebAPI.Domain.csproj",
+              "RelativeDocumentMoniker": "TestWebAPI.Domain\\TestWebAPI.Domain.csproj",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\TestWebAPI.Domain.csproj",
+              "RelativeToolTip": "TestWebAPI.Domain\\TestWebAPI.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T22:28:11.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:06:47.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IRepository.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IRepository.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Services\\Repository\\Abstraction\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:16:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Domain\\Models\\User.cs",
+              "RelativeToolTip": "TestWebAPI.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:37:09.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PictureConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Configuration\\PictureConfiguration.cs",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\Configuration\\PictureConfiguration.cs",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\Configuration\\PictureConfiguration.cs",
+              "RelativeToolTip": "TestWebAPI.Persistance\\Configuration\\PictureConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:03:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestWebAPI.Persistance.csproj",
+              "DocumentMoniker": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj",
+              "RelativeDocumentMoniker": "TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj",
+              "ToolTip": "C:\\Users\\sasha\\source\\repos\\TestWebAPI\\TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj",
+              "RelativeToolTip": "TestWebAPI.Persistance\\TestWebAPI.Persistance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T18:14:38.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

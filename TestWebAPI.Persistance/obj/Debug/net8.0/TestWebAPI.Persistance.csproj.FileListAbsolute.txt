@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\bin\Debug\net8.0\TestWebAPI.Persistance.deps.json
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\bin\Debug\net8.0\TestWebAPI.Persistance.dll
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\bin\Debug\net8.0\TestWebAPI.Persistance.pdb
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\bin\Debug\net8.0\TestWebAPI.Domain.dll
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\bin\Debug\net8.0\TestWebAPI.Domain.pdb
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebAPI.Persistance.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebAPI.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebAPI.Persistance.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebAPI.Persistance.AssemblyInfo.cs
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebAPI.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebA.C4212330.Up2Date
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebAPI.Persistance.dll
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\refint\TestWebAPI.Persistance.dll
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\TestWebAPI.Persistance.pdb
+C:\Users\sasha\source\repos\TestWebAPI\TestWebAPI.Persistance\obj\Debug\net8.0\ref\TestWebAPI.Persistance.dll
