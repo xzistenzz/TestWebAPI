@@ -24,9 +24,6 @@ namespace TestWebAPI.Persistance.Configuration
             builder.HasMany(x => x.Pictures)
                 .WithOne(x => x.User)
                 .OnDelete(DeleteBehavior.Cascade);
-
-            builder.HasMany(x => x.Friends)
-                .WithMany(x => x.Friends);
         }
     }
 }

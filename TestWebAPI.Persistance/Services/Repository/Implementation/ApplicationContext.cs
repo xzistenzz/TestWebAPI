@@ -13,6 +13,7 @@ namespace TestWebAPI.Persistance.Services.Repository.Implementation
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Picture> Pictures { get; set; }
+        public DbSet<Friendships> Friendships { get; set; }
         public ApplicationContext(DbContextOptions options) : base(options) 
         {
             //Database.EnsureDeleted();
@@ -23,6 +24,7 @@ namespace TestWebAPI.Persistance.Services.Repository.Implementation
         {
             modelBuilder.ApplyConfiguration(new PictureConfiguration());
             modelBuilder.ApplyConfiguration(new UserConfiguration());
+            modelBuilder.ApplyConfiguration(new FriendshipsConfiguration());
         }
     }
 }

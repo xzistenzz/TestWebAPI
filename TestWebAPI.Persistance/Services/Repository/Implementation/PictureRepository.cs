@@ -1,9 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TestWebAPI.Domain.Exepctions;
 using TestWebAPI.Domain.Models;
 using TestWebAPI.Persistance.Services.Repository.Abstraction;
@@ -28,15 +23,18 @@ namespace TestWebAPI.Persistance.Services.Repository.Implementation
             await _context.SaveChangesAsync();
         }
 
-        public Task DeleteAsync(int entityId)
+        public async Task DeleteAsync(int entityId)
         {
-            throw new NotImplementedException();
+            var picture = await GetAsync(entityId);
+            _context.Pictures.Remove(picture);
+            await _context.SaveChangesAsync();
         }
 
-        public Task<IEnumerable<Picture>> GetAllAsync()
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<IEnumerable<Picture>> GetAllAsync()
+            => await _context.Pictures.AsNoTracking().ToListAsync();
+
+        public async Task<IEnumerable<Picture>> GetAllAsync(int userId)
+            => await _context.Pictures.AsNoTracking().Where(x => x.UserId == userId).ToListAsync();
 
         public async Task<Picture> GetAsync(int entityId)
         {
@@ -59,9 +57,12 @@ namespace TestWebAPI.Persistance.Services.Repository.Implementation
             return picture;
         }
 
-        public Task UpdateAsync(Picture entity)
+        public async Task UpdateAsync(Picture entity)
         {
-            throw new NotImplementedException();
+            var pictureOldData = await GetAsync(entity.Id);
+
+            pictureOldData.RelativePath = entity.RelativePath;
+            await _context.SaveChangesAsync();
         }
     }
 }

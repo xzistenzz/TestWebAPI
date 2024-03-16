@@ -16,6 +16,10 @@ namespace TestWebAPI.Persistance.Configuration
             builder.HasKey(p => p.Id);
 
             builder.Property(p => p.RelativePath).IsRequired();
+
+            builder.Property(p => p.Description)
+                .IsRequired(false)
+                .HasMaxLength(200);
         }
     }
 }

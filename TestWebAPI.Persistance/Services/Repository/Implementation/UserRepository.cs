@@ -49,6 +49,16 @@ namespace TestWebAPI.Persistance.Services.Repository.Implementation
             return user;
         }
 
+        public async Task<User> GetbyLogin(string login)
+        {
+            var user = await _context.Users.AsNoTracking().SingleOrDefaultAsync(x => x.Login == login);
+
+            if (user == null)
+                throw new NotFoundEntityException($"Пользователь \"{login}\" не существует.");
+
+            return user;
+        }
+
         public async Task<User> GetNoTrackingAsync(int entityId)
         {
             var user = await _context.Users.AsNoTracking()

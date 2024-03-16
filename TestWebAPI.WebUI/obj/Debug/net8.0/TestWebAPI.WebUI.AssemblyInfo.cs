@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TestWebAPI.Application")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestWebAPI.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d04734ad1ef5fc8e81f8ddfc9c7b4fd3a2149ab")]
-[assembly: System.Reflection.AssemblyProductAttribute("TestWebAPI.Application")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TestWebAPI.Application")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestWebAPI.WebUI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestWebAPI.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

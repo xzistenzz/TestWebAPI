@@ -9,5 +9,6 @@ namespace TestWebAPI.Persistance.Services.Repository.Abstraction
 {
     public interface IUserRepository : IRepository<User>
     {
+        Task<User> GetbyLogin(string login);
     }
 }
